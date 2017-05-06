@@ -1,0 +1,42 @@
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\Bot Application.dll.config
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\Bot Application.dll
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\Bot Application.pdb
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\Autofac.dll
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\Chronic.dll
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\Newtonsoft.Json.dll
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\System.Net.Http.Formatting.dll
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\System.Web.Http.dll
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\System.Web.Http.WebHost.dll
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\Autofac.xml
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\Newtonsoft.Json.xml
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\System.Net.Http.Formatting.xml
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\System.Web.Http.xml
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\System.Web.Http.WebHost.xml
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\obj\Release\MyTestBot.csprojResolveAssemblyReference.cache
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\obj\Release\Bot Application.dll
+C:\Users\12531\Documents\Visual Studio 2017\Projects\MyTestBot\MyTestBot\obj\Release\Bot Application.pdb
